@@ -14,7 +14,7 @@ InvoiceManager funciona como la interfaz de usuario (frontend) para un sistema d
 Ambos componentes interactúan a través de una base de datos PostgreSQL compartida, lo que permite una gestión eficiente y escalable de los datos de las facturas.
 
 ## Demo
-![Imagen 1](/demo.gif)
+![Imagen 1](/demo1.gif)
 ## Características Destacadas
 
 *   **Autenticación Segura:** Implementación de un sistema de autenticación robusto para proteger el acceso a la información sensible de las facturas.
